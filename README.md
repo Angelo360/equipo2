@@ -1,2 +1,2 @@
-# equipo22
-hola aqui se hace la venta
+# SISTEMA DE INVENTARIO
+Repositorio para la preparación del entorno DevOps del Sistema de Control de Inventario, incluyendo documentación, pruebas y configuración de integración continua.
